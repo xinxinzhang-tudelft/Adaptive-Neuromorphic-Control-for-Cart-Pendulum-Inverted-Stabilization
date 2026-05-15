@@ -1,8 +1,8 @@
-# Adaptive Neuromorphic Control for Inverted Stabilization of a Cart–Pendulum System
+# Swing-Up and Stabilization of an Inverted Cart-Pendulum via Neuromorphic Control
 
 This repository provides MATLAB implementations and simulation results for the paper:
 
-**“Adaptive Neuromorphic Control for Inverted Stabilization of a Cart–Pendulum System”**
+**“Swing-Up and Stabilization of an Inverted Cart-Pendulum via Neuromorphic Control”**
 (IFAC Congress 2026)
 
 ---
